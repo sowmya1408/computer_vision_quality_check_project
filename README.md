@@ -1,7 +1,7 @@
 # computer_vision_quality_check_project
 Computer vision quality check project
 
-# 📰 Quality_check project (Multi-class Classification of Images(Computer vision))
+#  Quality_check project (Multi-class Classification of Images(Computer vision))
 
 This project classifies clothing images and predicts the label.
 
